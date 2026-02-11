@@ -159,8 +159,8 @@ See `requirements.txt` for complete list of dependencies.
 
 ## Contributing
 
-This is an academic assignment repository. For suggestions or improvements, please open an issue.
+This project is for taking part in a Kaggle competition. If there are any issues or improvements, please open an issue and I will assign them - contributions and help are welcome!
 
 ## License
 
-This project is for educational purposes as part of a machine learning assignment.
+This project is for participating in the Kaggle Zillow Prize competition.
